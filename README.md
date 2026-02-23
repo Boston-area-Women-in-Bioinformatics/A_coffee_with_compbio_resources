@@ -5,7 +5,7 @@
 
 ## Episode 2
 
-[Biohackathons](https://biohackathons.github.io/)
+[Biohackathons](https://biohackathons.github.io/)\
 [nf-core hackathons](https://nf-co.re/events/hackathon) 
 [nf-core hackathon in March 2026](https://nf-co.re/events/2026/hackathon-march-2026) 
 [If you are interested in hosting a hackathon](https://college.harvard.edu/student-life/student-stories/how-i-organized-hackathon-harvard)
