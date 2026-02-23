@@ -1,5 +1,8 @@
 # Resources from A Coffee With Compbio Podcast
 
+![A-Coffee-With-Compbio](Misc/IMG_0979.png)
+
+
 ## Episode 1
 
 
