@@ -12,7 +12,9 @@
 [nf-core hackathons](https://nf-co.re/events/hackathon) \
 [nf-core hackathon in March 2026](https://nf-co.re/events/2026/hackathon-march-2026) \
 [If you are interested in hosting a hackathon](https://college.harvard.edu/student-life/student-stories/how-i-organized-hackathon-harvard)\
-[Bio-IT](https://www.bio-itworldexpo.com/fair-data-hackathon) 
+[Bio-IT](https://www.bio-itworldexpo.com/fair-data-hackathon)\
+[Upcoming-hackathon - FAIR DATA](https://www.bio-itworldexpo.com/fair-data-hackathon)
+
 
 #### General hackathons
 [Other hackathons](https://www.openhackathons.org/s/)\
