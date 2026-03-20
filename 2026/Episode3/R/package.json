@@ -1,0 +1,12 @@
+{
+  "name": "single-cell-qc-slides",
+  "version": "1.0.0",
+  "description": "Generate a PowerPoint QC presentation from Seurat single-cell RNA-seq output",
+  "main": "build_slides.js",
+  "scripts": {
+    "build-slides": "node build_slides.js"
+  },
+  "dependencies": {
+    "pptxgenjs": "^4.0.1"
+  }
+}

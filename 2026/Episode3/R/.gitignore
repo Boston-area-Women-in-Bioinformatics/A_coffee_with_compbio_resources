@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Raw data (download via the pipeline or provide manually)
+*.tar.gz
+*.tar.bz2
+filtered_gene_bc_matrices/
+
+# Generated outputs
+qc_output/
+PBMC3K_QC_Report.html
+
+# R session artefacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS artefacts
+.DS_Store
+Thumbs.db
