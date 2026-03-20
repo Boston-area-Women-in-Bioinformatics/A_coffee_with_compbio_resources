@@ -1,7 +1,13 @@
 ### Build QC Summary Figure + Save Filtered Object ###
 
-lib_path <- file.path(Sys.getenv("USERPROFILE"), "R", "win-library",
-                      paste0(R.version$major, ".", substr(R.version$minor, 1, 1)))
+# ── Cross-platform user library path ──────────────────────────────────────────
+r_ver    <- paste0(R.version$major, ".", substr(R.version$minor, 1, 1))
+lib_path <- switch(
+  Sys.info()[["sysname"]],
+  "Windows" = file.path(Sys.getenv("USERPROFILE"), "R", "win-library", r_ver),
+  "Darwin"  = path.expand(file.path("~", "Library", "R", r_ver, "library")),
+             path.expand(file.path("~", "R", "library"))  # Linux
+)
 dir.create(lib_path, recursive = TRUE, showWarnings = FALSE)
 .libPaths(c(lib_path, .libPaths()))
 

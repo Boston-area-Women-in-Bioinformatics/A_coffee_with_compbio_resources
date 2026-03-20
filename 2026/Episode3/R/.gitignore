@@ -9,6 +9,8 @@ filtered_gene_bc_matrices/
 # Generated outputs
 qc_output/
 PBMC3K_QC_Report.html
+*.rds
+*.pptx
 
 # R session artefacts
 .Rhistory
