@@ -21,9 +21,17 @@
 [Major league hackathons](https://www.mlh.com/seasons/2026/events)\
 [Codeday](https://www.codeday.org/)\
 [devpost](https://devpost.com/)\
-[NCBI](https://ncbi-codeathons.github.io/) 
+[NCBI](https://ncbi-codeathons.github.io/)
 
 
+## Episode 3 — Single-Cell RNA-seq QC with Claude Code
+
+Reproducible QC pipelines for the classic 10x Genomics PBMC3k dataset, demonstrated live using Claude Code.
+
+| Version | Location | Tools |
+|---|---|---|
+| R | [2026/Episode3/R/](2026/Episode3/R/) | Seurat, ggplot2 |
+| Python | [2026/Episode3/Python/](2026/Episode3/Python/) | Scanpy, matplotlib |
 
 
 

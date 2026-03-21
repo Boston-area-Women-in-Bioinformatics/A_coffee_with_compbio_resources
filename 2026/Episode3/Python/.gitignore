@@ -1,0 +1,32 @@
+# Raw data (download via scanpy or the 10x URL in README)
+*.tar.gz
+*.tar.bz2
+filtered_gene_bc_matrices/
+data/
+
+# Generated outputs
+figures/
+results/
+*.h5ad
+
+# Python artefacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+env/
+.env
+
+# Jupyter artefacts
+.ipynb_checkpoints/
+*.ipynb
+
+# Claude Code local settings
+.claude/
+
+# OS artefacts
+.DS_Store
+Thumbs.db

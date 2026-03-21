@@ -1,0 +1,6 @@
+scanpy>=1.9
+anndata>=0.9
+matplotlib>=3.7
+seaborn>=0.12
+pandas>=2.0
+numpy>=1.24
