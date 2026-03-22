@@ -30,8 +30,8 @@ Reproducible QC pipelines for the classic 10x Genomics PBMC3k dataset, demonstra
 
 | Version | Location | Tools |
 |---|---|---|
-| R | [2026/Episode3/R/](2026/Episode3/R/) | Seurat, ggplot2 |
-| Python | [2026/Episode3/Python/](2026/Episode3/Python/) | Scanpy, matplotlib |
+| R | [2026/episode-03/r/](2026/episode-03/r/) | Seurat, ggplot2 |
+| Python | [2026/episode-03/python/](2026/episode-03/python/) | Scanpy, matplotlib |
 
 
 
